@@ -10,8 +10,10 @@
  - 5) a user interface to visualize telemetry data and facilitate device management. 
 
 
+### Optional Subsystems of an IoT Architecture
+<img src="https://user-images.githubusercontent.com/31917400/63261796-415f2b00-c27c-11e9-8000-348fb580f490.jpg"/>
 
-
+In addition to the core subsystems many IoT applications will include subsystems for: 6) telemetry data transformation which allows restructuring, combination, or transformation of telemetry data sent from devices, 7) machine learning which allows predictive algorithms to be executed over historical telemetry data, enabling scenarios such as predictive maintenance, and 8) user management which allows splitting of functionality amongst different roles and users.
 
 
 
